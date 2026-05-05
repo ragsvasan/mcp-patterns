@@ -1,6 +1,14 @@
 # mcp-patterns
 
-Production-ready security patterns for MCP (Model Context Protocol) servers.
+Production-ready patterns for MCP (Model Context Protocol) servers — from security to routing, latency, and agent design.
+
+## The Field Report
+
+**[MCP Is the Product](book/MCP-is-the-Product.pdf)** — A field report from twelve weeks of building a headless AI coaching app. What the spec doesn't tell you about routing, latency, security, and the language between intent and action. VitalSync is the case study. The lessons generalize.
+
+> *"The spec is the handshake. The hard work is in the product."*
+
+---
 
 **Current pattern: PII Scrubber** — detect and redact sensitive data before it reaches persistent storage.
 
