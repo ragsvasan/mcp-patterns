@@ -4,7 +4,9 @@ Production-ready patterns for MCP (Model Context Protocol) servers — from secu
 
 ## The Field Report
 
-**[MCP Is the Product](book/MCP-is-the-Product.pdf)** — A field report from twelve weeks of building a headless AI coaching app. What the spec doesn't tell you about routing, latency, security, and the language between intent and action. VitalSync is the case study. The lessons generalize.
+[![Download PDF](https://img.shields.io/badge/Download%20Free%20PDF-MCP%20Is%20the%20Product-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/ragsvasan/mcp-patterns/releases/download/v1.0/MCP-is-the-Product.pdf)
+
+**[MCP Is the Product](https://github.com/ragsvasan/mcp-patterns/releases/download/v1.0/MCP-is-the-Product.pdf)** — A field report from twelve weeks of building a headless AI coaching app. What the spec doesn't tell you about routing, latency, security, and the language between intent and action. VitalSync is the case study. The lessons generalize.
 
 > *"The spec is the handshake. The hard work is in the product."*
 
